@@ -1,0 +1,6 @@
+{
+  "name": "PayCore — Digital Wallet & Payment Management Platform",
+  "description": "Enterprise digital wallet and payment management platform with role-based access, wallet transfers, cash deposits, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
